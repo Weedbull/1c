@@ -2,7 +2,7 @@
 # БД склада, которую я делал, можете скачать посмотреть
 В ней есть:
 Индивидуальная запись для пользователя
-![image](https://user-images.githubusercontent.com/93524480/154051361-8b7f2723-6b2e-4f4d-8515-0b84a53c6950.png)
+(Изображение: image)![image](https://user-images.githubusercontent.com/93524480/154052841-538db667-c345-424a-8a9e-1388053ba001.png)
 Все полезные ресурсы
 ![f](https://user-images.githubusercontent.com/93524480/154051774-98cc16e3-292e-4fb3-819a-6e91beab05a6.png)
 Цены, остатки, продажи, история действий пользователя 
